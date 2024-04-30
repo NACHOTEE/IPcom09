@@ -1,5 +1,5 @@
 print("*********** Profes ***********")
-print("Rodriguez, Miguel ~ Soria, Lucia      -----> ESCRIBIR AQUI")
+print("Rodriguez, Miguel ~ Soria, Lucia      -----> Introduccion a git")
 
 
 print("\n*********** Alumnos ***********")
