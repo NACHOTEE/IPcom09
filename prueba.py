@@ -4,6 +4,7 @@ print("Rodriguez, Miguel ~ Soria, Lucia      -----> ESCRIBIR AQUI")
 
 print("\n*********** Alumnos ***********")
 
+print("Rodriguez, Miguel                    -----> ESCRIBIR AQUI")
 print("Aballay, Camila Anahi                -----> ESCRIBIR AQUI")
 print("Ali, Hector Oscar                    -----> ESCRIBIR AQUI")
 print("Althaparro, Delfina                  -----> ESCRIBIR AQUI")
