@@ -4,7 +4,7 @@ print("Rodriguez, Miguel ~ Soria, Lucia      -----> Introduccion a git")
 
 print("\n*********** Alumnos ***********")
 
-print("Rodriguez, Miguel                    -----> hola :D")
+print("Rodriguez, Miguel                    -----> ACABO DE MODIFICAR")
 print("Aballay, Camila Anahi                -----> ESCRIBIR AQUI")
 print("Ali, Hector Oscar                    -----> ESCRIBIR AQUI")
 print("Althaparro, Delfina                  -----> ESCRIBIR AQUI")
